@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://rishabhkathiravan.pythonanywhere.com/">
+  <a href="[https://rishabhkathiravan.pythonanywhere.com/](https://rishabhkathiravan.netlify.app/)">
     <img src="https://img.shields.io/badge/Website-98bec8?style=for-the-badge&logo=python&logoColor=black" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/rishabhk31/">
@@ -21,9 +21,9 @@
 ---
 
 ### :man_technologist: About Me:
-I am a motivated and detail-oriented Software Developer with 1+ years of work experience in developing AI and ML models and APIs.
+I am a motivated and detail-oriented Software Developer with 2+ years of work experience in developing scalable solution.
 
-- :telescope: I’m working as a AI Engineer Intern and contributing to developing scalable AI and API.
+- :telescope: I’m working as a Software Engineer and contributing to developing scalable solutions.
 
 - :seedling: Exploring Web Development, Cloud Computing and automation.
 
